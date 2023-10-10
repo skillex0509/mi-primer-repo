@@ -1,0 +1,3 @@
+Esto es texto que añado desde VSC
+durtante una clase del
+grupo de de programacion web
