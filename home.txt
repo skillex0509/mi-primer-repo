@@ -1,3 +1,8 @@
 Esto es texto que añado desde VSC
 durtante una clase del
 grupo de de programacion web
+
+
+
+Estos cambios se agregaron desde  el editor de la nube
+para ser demostracion del comando git pull
