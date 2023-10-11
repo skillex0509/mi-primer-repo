@@ -1,2 +1,6 @@
-esta cambio bue hecho sin VSC.
-directamente desde el bloxc de notas.
+esta cambio fue hecho sin VSC.
+directamente desde el bloc de notas.
+
+
+Ahora este contenido se esta añadiendo desde el editor en la nube.
+es decir, que estos cambios se deberan jalar al repositorio local 😎
